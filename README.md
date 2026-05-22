@@ -2,11 +2,10 @@
 
 [![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
 
-## ✨ Try it in your browser ✨
+## Try it in your browser
 
-➡️ **https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb**
+➡️ **[https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb](https://anschn05.github.io/jupyterlite_papa_arbeit/)**
 
 ## Setting up your own NGSolve - jupyterlite demos:
 
