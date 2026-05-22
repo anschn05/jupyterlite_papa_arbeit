@@ -5,7 +5,7 @@
 
 ## Try it in your browser
 
-➡️ **[https://ngsolve.github.io/jupyterlite_ngsolve/lab?path=poisson.ipynb](https://anschn05.github.io/jupyterlite_papa_arbeit/)**
+➡️ **(https://anschn05.github.io/jupyterlite_papa_arbeit/)**
 
 ## Setting up your own NGSolve - jupyterlite demos:
 
